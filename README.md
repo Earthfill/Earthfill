@@ -2,7 +2,7 @@
 
 <h1 align="center">Hi there 👋, I'm Kingslee😀</h1>
 
-<p align="center"><b>Kingslee is an aspiring software engineer with over a year of experience as a full-stack developer. Eager to build innovative and cutting-edge business solutions for various users globally to solve real-world problems. I develop scalable web products using my stack.</b></p>
+<p align="center"><b>Kingslee is an aspiring Software Engineer with over a year of experience as a full-stack developer. Eager to build innovative and cutting-edge business solutions for various users globally to solve real-world problems. I develop scalable web products using my stack.</b></p>
 
 #### Technologies and Tools
 
