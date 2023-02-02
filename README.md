@@ -16,7 +16,7 @@
   <img src="https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white"/>
   <img src="https://img.shields.io/badge/NPM-%23000000.svg?style=for-the-badge&logo=npm&logoColor=white"/>
 </p>
-<p>🌱 I’m currently learning Razor View Engine for fullstack web development using the C# language, as well as undergoing the ALX Software Engineering training</p>
+<p>🌱 I’m currently learning branching into the use of various JavaScript frameworks for fullstack web development, as well as undergoing the ALX Software Engineering training.</p>
 <p>👯 I’m looking to collaborate on real-life impactful projects</p>
 <p>📫 How to reach me: <a href=https://www.linkedin.com/in/kingsley-omiy/>Click</a><p>
 <p>⚡ Motto: <em>Implacabilis</em></p>
