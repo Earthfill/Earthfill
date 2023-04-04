@@ -2,7 +2,7 @@
 
 <h1 align="center">Hi there 👋, I'm Kingslee😀</h1>
 
-<p align="center"><b>Kingslee is an aspiring Software Engineer with over a year of experience as a full-stack developer. Eager to build innovative and cutting-edge business solutions for various users globally to solve real-world problems. I develop scalable web products using my stack.</b></p>
+<p align="center"><b>Kingslee is a Software Engineer with over a year of experience as a full-stack developer. Eager to build innovative and cutting-edge business solutions for various users globally to solve real-world problems. I develop scalable web products using my stack.</b></p>
 
 #### Technologies and Tools
 
@@ -16,7 +16,7 @@
   <img src="https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white"/>
   <img src="https://img.shields.io/badge/NPM-%23000000.svg?style=for-the-badge&logo=npm&logoColor=white"/>
 </p>
-<p>🌱 I’m currently learning branching into the use of various JavaScript frameworks for fullstack web development, as well as undergoing the ALX Software Engineering training.</p>
+<p>🌱 I’m currently branching into the use of various JavaScript frameworks for fullstack web development.</p>
 <p>👯 I’m looking to collaborate on real-life impactful projects</p>
 <p>📫 How to reach me: <a href=https://www.linkedin.com/in/kingsley-omiy/>Click</a><p>
 <p>⚡ Motto: <em>Implacabilis</em></p>
