@@ -23,5 +23,5 @@
 
 #### Work Experience:
 
-- [Backend Developer @ Application Laboratory](https://applab.com.ng/)
+- [Frontend Developer @ Chithub Company Limited](https://applab.com.ng/)
 - [Backend Developer @ Zuri](https://zuri.team/)
