@@ -23,5 +23,6 @@
 
 #### Work Experience:
 
-- [Frontend Developer @ Chithub Company Limited](https://applab.com.ng/)
+- [Frontend Developer @ Chithub Company Limited](https://www.chithubtms.com/)
 - [Backend Developer @ Zuri](https://zuri.team/)
+- [Cloud Support Engineer @ Access Bank Nigeria](https://www.accessbankplc.com/)
