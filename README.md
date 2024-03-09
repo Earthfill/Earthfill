@@ -25,4 +25,4 @@
 
 - [Frontend Developer @ Chithub Company Limited](https://www.chithubtms.com/)
 - [Backend Developer @ Zuri](https://zuri.team/)
-- [Cloud Operations Engineer @ Access Bank Nigeria](https://www.accessbankplc.com/)
+- [Application Manager @ Access Bank Nigeria](https://www.accessbankplc.com/)
