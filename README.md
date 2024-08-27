@@ -7,15 +7,17 @@
 #### Technologies and Tools
 
 <p>
-  <img src="https://img.shields.io/badge/html5%20-%23E34F26.svg?&style=for-the-badge&logo=html5&logoColor=white"/>
   <img src ="https://img.shields.io/badge/react-%2307405e.svg?&style=for-the-badge&logo=dev&logoColor=white"/>
   <img src="https://img.shields.io/badge/git%20-%23F05033.svg?&style=for-the-badge&logo=git&logoColor=white"/>
-  <img src="https://img.shields.io/badge/github%20-%23121011.svg?&style=for-the-badge&logo=github&logoColor=white"/>
   <img src="https://img.shields.io/badge/mongodb%20-%23039BE5.svg?&style=for-the-badge&logo=firebase"/>
-  <img src="https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white"/>
   <img src="https://img.shields.io/badge/NPM-%23000000.svg?style=for-the-badge&logo=npm&logoColor=white"/>
+  <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white"/>
+  <img src="https://img.shields.io/badge/next%20js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Jest-C21325?style=for-the-badge&logo=jest&logoColor=white"/>
 </p>
-<p>🌱 I’m currently branching into the use of various JavaScript frameworks for fullstack web development.</p>
+<p>🌱 I’m currently branching into the use of various JavaScript frameworks for full-stack web development.</p>
 <p>👯 I’m looking to collaborate on real-life impactful projects</p>
 <p>📫 How to reach me: <a href=https://www.linkedin.com/in/kingsley-omiy/>Click</a><p>
 <p>⚡ Motto: <em>Implacabilis</em></p>
