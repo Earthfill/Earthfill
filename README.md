@@ -17,13 +17,13 @@
   <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white"/>
   <img src="https://img.shields.io/badge/Jest-C21325?style=for-the-badge&logo=jest&logoColor=white"/>
 </p>
-<p>🌱 I’m currently branching into the use of various JavaScript frameworks for full-stack web development.</p>
+<p>🌱 I’m currently branching into the mobile development using React Native.</p>
 <p>👯 I’m looking to collaborate on real-life impactful projects</p>
-<p>📫 How to reach me: <a href=https://www.linkedin.com/in/kingsley-omiy/>Click</a><p>
+<p>📫 How to reach me: <a href=https://linkedin.com/in/kingsley-omiy/>Click</a><p>
 <p>⚡ Motto: <em>Implacabilis</em></p>
 
 #### Work Experience:
 
 - [Frontend Developer @ Chithub Company Limited](https://www.chithubtms.com/)
 - [Backend Developer @ Zuri](https://zuri.team/)
-- [Application Manager @ Access Bank Nigeria](https://www.accessbankplc.com/)
+- [Frontend Developer @ Access Bank Nigeria](https://www.accessbankplc.com/)
